@@ -1,0 +1,27 @@
+# https://www.python.org
+
+# Como comentar en una Linia
+
+
+"""
+Como comentar
+en varias 
+Linias
+"""
+
+my_variable = "My variable"                  # La forma de crear una variable
+
+my_variable = "My nueva variable"            # Esta es la forma de crear una variable nueva
+
+MY_VARIABLE = "Esta es una Constante"        # Esta es la forma de hacer una Constante, ya que en Python no existe
+
+
+my_int = 1                                   # Dato de tipo ENTERO
+my_float = 1.5                               # Dato de tipo FLOAT
+my_bool = True                               # Dato de tipo BOOLEANOS
+my_bool = False                              # Dato de tipo BOOLEANOS
+my_string = "Mi cadena de Texto"             # Dato de tipo CADENA DE TEXTO O STRNG, en este caso de utliza comilla dosbles
+my_other_string = 'Mi otra cadena de Texto'  # Dato de tipo CADENA DE TEXTO O STRNG, en este caso se utliza comilla simples 
+
+
+print("¡Hola, Python!")
